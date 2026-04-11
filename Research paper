@@ -1,0 +1,31 @@
+Abstract — Air pollution has become a serious issue affecting
+both the environment and human health, particularly in urban and
+industrial regions[1]. Many current pollution monitoring systems
+focus only on measuring environmental conditions and reporting
+them once pollution levels exceed safe limits. These systems do
+not provide predictive capabilities or automatic control actions.
+In this study, a new system called SL-PCG (Self-Learning
+Pollution Control Grid) is proposed [4]. It is an AI-based system
+designed to predict pollution levels and automatically control
+environmental conditions before they become harmful. The system
+integrates environmental data collection, time-series forecasting
+techniques, rule-based control actions, and a feedback-based
+learning mechanism. The model uses both simulated and real-time
+sensor data such as AQI, temperature, humidity, and traffic density
+to detect short-term pollution trends [2]. By analyzing these
+environmental parameters, the system can predict potential
+increases in pollution levels ahead of time. If the predicted values
+reach or exceed predefined safety limits, the system automatically
+activates pollution control methods such as ventilation or air
+filtration systems.
+The experimental results demonstrate that the proposed system
+improves response time and reduces the severity of pollution
+spikes compared to conventional monitoring approaches [8]. Early
+intervention helps maintain a more balanced and stable
+environmental condition [5]. The system is also scalable and can
+be integrated with IoT devices, making it suitable for smart city
+infrastructure, industrial environments, and institutional areas like
+university campuses.
+Keywords — Artificial Intelligence, Pollution Monitoring, IoT
+Systems, Time-Series Prediction, Smart Cities, Environmental
+Control, Intelligent Systems.
