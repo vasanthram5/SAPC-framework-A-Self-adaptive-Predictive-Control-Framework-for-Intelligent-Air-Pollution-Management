@@ -27,7 +27,7 @@ Unlike traditional systems, this framework is **proactive**, not reactive.
 
 ## ⚙️ System Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](images/System Architecture.png)
 
 ---
 
